@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(255, 61, 61);
+    font-family: Arial;
+    font-size: 18px;
+    margin: 20px; 
+}
+
+p {
+    margin-left:20px;
+    border:1px solid black;
+    padding:10px;
+    width:80%;
+    background-color:brown;
+    color:white;
+}
+
+h1 {
+    font-family:Impact;
+    font-size:60px;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    -webkit-text-stroke: 0.1px rgb(255, 255, 255);
+}
